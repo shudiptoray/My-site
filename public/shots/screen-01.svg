@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#e9e7d8"/>
+  <rect x="0" y="0" width="1200" height="76" fill="#f5f0e5"/>
+  <circle cx="70" cy="38" r="13" fill="#d15c3b"/>
+  <text x="100" y="46" fill="#1c2d25" font-family="Arial,sans-serif" font-size="20" font-weight="700">FIELD / NOTES</text>
+  <text x="920" y="44" fill="#435047" font-family="Arial,sans-serif" font-size="14">ABOUT   JOURNAL   CONTACT</text>
+  <text x="76" y="226" fill="#1c2d25" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">A PLACE TO BEGIN AGAIN</text>
+  <text x="70" y="370" fill="#1c2d25" font-family="Arial,sans-serif" font-size="102" font-weight="700">MAKE ROOM</text>
+  <text x="70" y="474" fill="#1c2d25" font-family="Arial,sans-serif" font-size="102" font-weight="700">FOR GOOD WORK.</text>
+  <rect x="78" y="540" width="250" height="62" rx="3" fill="#d15c3b"/>
+  <text x="109" y="579" fill="#fff7e9" font-family="Arial,sans-serif" font-size="17" font-weight="700">EXPLORE THE PROJECT  ↗</text>
+  <rect x="780" y="160" width="330" height="500" rx="3" fill="#9da88a"/>
+  <circle cx="945" cy="333" r="92" fill="#d6b285"/>
+  <path d="M800 635c20-150 96-210 145-210s125 60 145 210" fill="#31483d"/>
+  <rect x="824" y="187" width="244" height="12" fill="#e9e7d8" opacity=".8"/>
+</svg>

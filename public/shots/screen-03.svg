@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#111a31"/>
+  <rect x="0" y="0" width="1200" height="70" fill="#f0eee7"/>
+  <rect x="72" y="23" width="28" height="24" rx="4" fill="#244dbb"/>
+  <text x="118" y="43" fill="#172039" font-family="Arial,sans-serif" font-size="19" font-weight="700">NORTH / COMMON</text>
+  <text x="875" y="42" fill="#172039" font-family="Arial,sans-serif" font-size="14">WORK   PEOPLE   ABOUT</text>
+  <text x="80" y="220" fill="#aebbd7" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">DESIGNED FOR THE IN-BETWEEN</text>
+  <text x="72" y="364" fill="#f2eee4" font-family="Arial,sans-serif" font-size="105" font-weight="700">A CALMER</text>
+  <text x="72" y="472" fill="#f2eee4" font-family="Arial,sans-serif" font-size="105" font-weight="700">WAY THROUGH.</text>
+  <rect x="82" y="552" width="220" height="60" rx="30" fill="#416ce0"/>
+  <text x="120" y="590" fill="#ffffff" font-family="Arial,sans-serif" font-size="16" font-weight="700">TAKE A LOOK  ↗</text>
+  <rect x="810" y="190" width="290" height="430" rx="12" fill="#d4d8df"/>
+  <rect x="830" y="214" width="250" height="140" rx="5" fill="#8597ba"/>
+  <rect x="830" y="380" width="172" height="14" rx="7" fill="#303c54"/>
+  <rect x="830" y="412" width="220" height="9" rx="5" fill="#9aa2b2"/>
+  <rect x="830" y="436" width="196" height="9" rx="5" fill="#9aa2b2"/>
+  <rect x="830" y="500" width="250" height="82" rx="4" fill="#416ce0"/>
+</svg>

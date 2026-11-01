@@ -1,0 +1,1 @@
+These are replaceable interface mockups, not client work. Matching 384, 640, and 1200 pixel WebP exports are generated beside each SVG and used by the project gallery.
