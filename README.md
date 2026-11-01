@@ -14,7 +14,7 @@ Open http://localhost:3000.
 ## Personalize
 
 1. Replace the placeholder name, bio, projects, jobs, rules, email, and social links in `data/content.ts`.
-2. Replace the CSS portrait and photo placeholders in `components/portfolio.tsx` with your own optimized images and accurate alt text.
+2. Replace `public/shots/portrait.webp` with your optimized portrait and update `portraitAlt` in `data/content.ts`. Generate a WebP from an image with `node scripts/optimize-portrait.mjs <input-image>`.
 3. Replace each project screen mockup with a real screenshot. Keep source images under `public/shots/`; run `npm run shots:generate` to export responsive WebP variants around 384, 640, and 1200 pixels wide from the SVG placeholders.
 4. Copy `.env.example` to `.env.local` and set your GitHub values to enable the contribution calendar.
 

@@ -26,7 +26,7 @@ export const content = {
   },
   email: "hello@example.com",
   githubUsername: "YOUR_GITHUB_USERNAME",
-  portraitAlt: "Placeholder portrait artwork. Replace with your own portrait.",
+  portraitAlt: "Black-and-white portrait wearing glasses and a dark suit, seated in front of a brick wall.",
   story: [
     "A short paragraph about where you started, what you noticed, and the kind of work that keeps you curious.",
     "A second paragraph about the people you like working with and what you hope to make next.",

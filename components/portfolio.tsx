@@ -64,7 +64,10 @@ function ProjectSheet({ project, number, total, onCaseStudy }: {
               />
             </div>
           </div>
-          <div className="gallery-control"><span className="mono">{String(frame + 1).padStart(2, "0")} / 03</span><button type="button" onClick={() => setFrame((value) => (value + 1) % 3)}>View next →</button></div>
+          <div className="gallery-control">
+            <span className="mono">{String(frame + 1).padStart(2, "0")} / 03</span>
+            <button type="button" onClick={() => setFrame((value) => (value + 1) % 3)}>View next →</button>
+          </div>
         </div>
         <div className="project-copy">
           <div className="project-meta mono"><span>{project.type}</span><span>{project.year}</span></div>
@@ -249,7 +252,9 @@ export default function Portfolio() {
               <StampButton href="#contact" filled>Say hello ↗</StampButton>
             </div>
             <figure className="portrait-frame">
-              <div className="portrait-art" role="img" aria-label={content.portraitAlt} onPointerMove={updatePortraitLight}><div className="portrait-silhouette" /></div>
+              <div className="portrait-art" onPointerMove={updatePortraitLight}>
+                <Image src="/shots/portrait.webp" alt={content.portraitAlt} fill priority sizes="(max-width: 700px) 36vw, 30vw" className="portrait-image" />
+              </div>
               <figcaption className="portrait-caption">Lit from behind</figcaption>
             </figure>
             <div className="cover-name"><span className="cover-first">{content.name.first}</span><h1 className="display-title cover-last">{content.name.last}</h1></div>
