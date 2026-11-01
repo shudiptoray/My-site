@@ -16,16 +16,16 @@ export type Project = {
 
 export const content = {
   name: {
-    first: "YOUR",
-    last: "NAME",
+    first: "Shudipto",
+    last: "Ray",
     role: "Independent designer & developer",
     tagline: "I make thoughtful digital things for people doing good work.",
-    location: "Your city, your country",
-    currently: "Your current project",
+    location: "Rangpur, Bangladesh",
+    currently: "current work on multiple projects",
     daysSinceContribution: "N days",
   },
-  email: "hello@example.com",
-  githubUsername: "YOUR_GITHUB_USERNAME",
+  email: "shudiptoray4@gmail.com",
+  githubUsername: "shudiptoray",
   portraitAlt: "Black-and-white portrait wearing glasses and a dark suit, seated in front of a brick wall.",
   story: [
     "A short paragraph about where you started, what you noticed, and the kind of work that keeps you curious.",
@@ -79,8 +79,8 @@ export const content = {
   ],
   openTo: ["Interesting collaborations", "Product teams with care", "Good questions"],
   links: [
-    { label: "GitHub", href: "https://github.com/YOUR_GITHUB_USERNAME" },
-    { label: "LinkedIn", href: "https://www.linkedin.com/in/YOUR_PROFILE" },
-    { label: "Are.na", href: "https://www.are.na/YOUR_USERNAME" },
+    { label: "GitHub", href: "https://github.com/shudiptoray" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/shudiptoray" },
+    { label: "Are.na", href: "https://www.are.na/shudiptoray" },
   ],
 };
